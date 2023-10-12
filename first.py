@@ -1,2 +1,2 @@
 def home():
-    pass
+    'hello'
